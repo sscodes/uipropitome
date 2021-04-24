@@ -3,16 +3,17 @@
 .navbarBrand{
     font-family: 'Orelega One', cursive;
     font-size: 2rem;
-    cursor: pointer;
 }
 
 .navbarlist{
     font-family: 'Orelega One', cursive;
     font-size: 1rem;
+    cursor: pointer;
 }
 
 .cardBg{
     background-color: olivedrab;
+    cursor: pointer;
 }
 
 .rough {
