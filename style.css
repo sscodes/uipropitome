@@ -3,6 +3,7 @@
 .navbarBrand{
     font-family: 'Orelega One', cursive;
     font-size: 2rem;
+    cursor: pointer;
 }
 
 .navbarlist{
